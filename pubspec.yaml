@@ -1,0 +1,27 @@
+name: toko_buku
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/CintaDalamDiam.jpg
+    - assets/dhirga.jpg
+    - assets/dilan1990.jpg
+    - assets/harunosora.jpg
+    - assets/KitaPernahSalah.jpg
+    - assets/senja&pagi.jpg
+    - assets/SuratKeciluntukAyah.jpg
